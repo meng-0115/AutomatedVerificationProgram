@@ -1,0 +1,25 @@
+# --- Visual Studio ---
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# --- Build ---
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# --- NuGet ---
+packages/
+!packages/build/
+
+# --- Logs ---
+*.log
+
+# --- Test ---
+TestResults/
+
+# --- Publish / Zip ---
+*.zip
