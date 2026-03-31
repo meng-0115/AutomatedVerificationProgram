@@ -53,6 +53,7 @@ It integrates:
 
 ## Author
 
-* Your Name
+* 11330621
+* 11330622
 
 ---
